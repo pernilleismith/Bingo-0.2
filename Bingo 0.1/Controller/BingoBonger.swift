@@ -240,13 +240,14 @@ class BingoBonger: UIViewController {
     
     var checkedButtons = [String]()
     var rows = [String]()
+   
     
-    func popUpButtonAction() {
+    //PopUpVindu
+    func popUpAction() {
         var popUpWindow: PopUpWindow!
            popUpWindow = PopUpWindow(title: "BINGO!", text: "", buttontext: "Back to Pernille´s bingo")
            self.present(popUpWindow, animated: true, completion: nil)
        }
-    
     
     func checkBingo(buttonId: String){
         if !checkedButtons.contains(buttonId){
@@ -260,11 +261,7 @@ class BingoBonger: UIViewController {
             
             if count == 5 {
                 print("BINGO on row \(rowNumber)")
-                popUpButtonAction()
-                // self.performSegue(withIdentifier: "Bingo", sender: self)
-            
-            
-            
+                popUpAction()
             }
         }
     }

@@ -68,7 +68,7 @@
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Glx-SQ-2Ge">
                                         <rect key="frame" x="0.0" y="0.0" width="51" height="30"/>
                                         <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
-                                        <fontDescription key="fontDescription" name="DINAlternate-Bold" family="DIN Alternate" pointSize="20"/>
+                                        <fontDescription key="fontDescription" name="DINAlternate-Bold" family="DIN Alternate" pointSize="25"/>
                                         <state key="normal" title="B">
                                             <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                         </state>
@@ -76,7 +76,7 @@
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ieK-BH-3tN">
                                         <rect key="frame" x="53" y="0.0" width="50.5" height="30"/>
                                         <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
-                                        <fontDescription key="fontDescription" name="DINAlternate-Bold" family="DIN Alternate" pointSize="20"/>
+                                        <fontDescription key="fontDescription" name="DINAlternate-Bold" family="DIN Alternate" pointSize="25"/>
                                         <state key="normal" title="I">
                                             <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                         </state>
@@ -84,7 +84,7 @@
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="g9T-qt-VRA">
                                         <rect key="frame" x="105.5" y="0.0" width="51" height="30"/>
                                         <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
-                                        <fontDescription key="fontDescription" name="DINAlternate-Bold" family="DIN Alternate" pointSize="21"/>
+                                        <fontDescription key="fontDescription" name="DINAlternate-Bold" family="DIN Alternate" pointSize="25"/>
                                         <state key="normal" title="N">
                                             <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                         </state>
@@ -92,7 +92,7 @@
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xe7-iT-an4">
                                         <rect key="frame" x="158.5" y="0.0" width="50.5" height="30"/>
                                         <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
-                                        <fontDescription key="fontDescription" name="DINAlternate-Bold" family="DIN Alternate" pointSize="20"/>
+                                        <fontDescription key="fontDescription" name="DINAlternate-Bold" family="DIN Alternate" pointSize="25"/>
                                         <state key="normal" title="G">
                                             <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                         </state>
@@ -100,7 +100,7 @@
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DNn-rm-xdG">
                                         <rect key="frame" x="211" y="0.0" width="51" height="30"/>
                                         <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
-                                        <fontDescription key="fontDescription" name="DINAlternate-Bold" family="DIN Alternate" pointSize="20"/>
+                                        <fontDescription key="fontDescription" name="DINAlternate-Bold" family="DIN Alternate" pointSize="25"/>
                                         <state key="normal" title="O">
                                             <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                         </state>
@@ -122,6 +122,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="51.5" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="B11"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="B11">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -133,6 +134,7 @@
                                                 <rect key="frame" x="52.5" y="0.0" width="51.5" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="I11"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="I11">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -144,6 +146,7 @@
                                                 <rect key="frame" x="105" y="0.0" width="52" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="N11"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="N11">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -155,6 +158,7 @@
                                                 <rect key="frame" x="158" y="0.0" width="51.5" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="G11"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="G11">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -166,6 +170,7 @@
                                                 <rect key="frame" x="210.5" y="0.0" width="51.5" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="O11"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="O11">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -183,6 +188,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="51.5" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="B12"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="B12">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -194,6 +200,7 @@
                                                 <rect key="frame" x="52.5" y="0.0" width="51.5" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="I12"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="I12">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -205,6 +212,7 @@
                                                 <rect key="frame" x="105" y="0.0" width="52" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="N12"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="N12">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -216,6 +224,7 @@
                                                 <rect key="frame" x="158" y="0.0" width="51.5" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="G12"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="G12">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -227,6 +236,7 @@
                                                 <rect key="frame" x="210.5" y="0.0" width="51.5" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="O12"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="O12">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -243,6 +253,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="51.5" height="41"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="B13"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="B13">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -254,6 +265,7 @@
                                                 <rect key="frame" x="52.5" y="0.0" width="51.5" height="41"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="I13"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="I13">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -265,6 +277,7 @@
                                                 <rect key="frame" x="105" y="0.0" width="52" height="41"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="N13"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="N13">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -276,6 +289,7 @@
                                                 <rect key="frame" x="158" y="0.0" width="51.5" height="41"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="G13"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="G13">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -287,6 +301,7 @@
                                                 <rect key="frame" x="210.5" y="0.0" width="51.5" height="41"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="O13"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="O13">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -303,6 +318,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="51.5" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="B14"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="B14">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -314,6 +330,7 @@
                                                 <rect key="frame" x="52.5" y="0.0" width="51.5" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="I14"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="I14">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -325,6 +342,7 @@
                                                 <rect key="frame" x="105" y="0.0" width="52" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="N14"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="N14">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -336,6 +354,7 @@
                                                 <rect key="frame" x="158" y="0.0" width="51.5" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="G14"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="G14">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -347,6 +366,7 @@
                                                 <rect key="frame" x="210.5" y="0.0" width="51.5" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="O14"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="O14">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -363,6 +383,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="51.5" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="B15"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="B15">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -374,6 +395,7 @@
                                                 <rect key="frame" x="52.5" y="0.0" width="51.5" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="I15"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="I15">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -385,6 +407,7 @@
                                                 <rect key="frame" x="105" y="0.0" width="52" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="N15"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="N15">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -396,6 +419,7 @@
                                                 <rect key="frame" x="158" y="0.0" width="51.5" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="G15"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="G15">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -407,6 +431,7 @@
                                                 <rect key="frame" x="210.5" y="0.0" width="51.5" height="40.5"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="O15"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="O15">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -428,6 +453,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="B1"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="B1">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -439,6 +465,7 @@
                                                 <rect key="frame" x="52.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="I1"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="I1">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -450,6 +477,7 @@
                                                 <rect key="frame" x="105" y="0.0" width="52" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="N1"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="N1">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -461,6 +489,7 @@
                                                 <rect key="frame" x="158" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="G1"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="G1">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -472,6 +501,7 @@
                                                 <rect key="frame" x="210.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="O1"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="O1">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -491,6 +521,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="B2"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="B2">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -502,6 +533,7 @@
                                                 <rect key="frame" x="52.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="I2"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="I2">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -513,6 +545,7 @@
                                                 <rect key="frame" x="105" y="0.0" width="52" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="N2"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="N2">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -524,6 +557,7 @@
                                                 <rect key="frame" x="158" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="G2"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="G2">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -535,6 +569,7 @@
                                                 <rect key="frame" x="210.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="O2"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="O2">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -554,6 +589,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="B3"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="B3">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -565,6 +601,7 @@
                                                 <rect key="frame" x="52.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="I3"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="I3">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -576,6 +613,7 @@
                                                 <rect key="frame" x="105" y="0.0" width="52" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="N3"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="N3">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -587,6 +625,7 @@
                                                 <rect key="frame" x="158" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="G3"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="G3">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -598,6 +637,7 @@
                                                 <rect key="frame" x="210.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="O3"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="O3">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -617,6 +657,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="B4"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="B4">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -628,6 +669,7 @@
                                                 <rect key="frame" x="52.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="I4"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="I4">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -639,6 +681,7 @@
                                                 <rect key="frame" x="105" y="0.0" width="52" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="N4"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="N4">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -650,6 +693,7 @@
                                                 <rect key="frame" x="158" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="G4"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="G4">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -661,6 +705,7 @@
                                                 <rect key="frame" x="210.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="O4"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="O4">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -680,7 +725,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="B5"/>
-                                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="B5">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -692,7 +737,7 @@
                                                 <rect key="frame" x="52.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="I5"/>
-                                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="I5">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -704,7 +749,7 @@
                                                 <rect key="frame" x="105" y="0.0" width="52" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="N5"/>
-                                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="N5">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -716,6 +761,7 @@
                                                 <rect key="frame" x="158" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="G5"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="G5">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -727,6 +773,7 @@
                                                 <rect key="frame" x="210.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="O5"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="O5">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -754,6 +801,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="B6"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="B6">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -765,6 +813,7 @@
                                                 <rect key="frame" x="52.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="I6"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="I6">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -776,6 +825,7 @@
                                                 <rect key="frame" x="105" y="0.0" width="52" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="N6"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="N6">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -787,6 +837,7 @@
                                                 <rect key="frame" x="158" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="G6"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="G6">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -798,6 +849,7 @@
                                                 <rect key="frame" x="210.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="O6"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="O6">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -817,6 +869,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="B7"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="B7">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -828,6 +881,7 @@
                                                 <rect key="frame" x="52.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="I7"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="I7">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -839,6 +893,7 @@
                                                 <rect key="frame" x="105" y="0.0" width="52" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="N7"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="N7">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -850,6 +905,7 @@
                                                 <rect key="frame" x="158" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="G7"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="G7">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -861,6 +917,7 @@
                                                 <rect key="frame" x="210.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="O7"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="O7">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -880,6 +937,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="B8"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="B8">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -891,6 +949,7 @@
                                                 <rect key="frame" x="52.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="I8"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="I8">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -902,6 +961,7 @@
                                                 <rect key="frame" x="105" y="0.0" width="52" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="N8"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="N8">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -913,6 +973,7 @@
                                                 <rect key="frame" x="158" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="G8"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="G8">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -924,6 +985,7 @@
                                                 <rect key="frame" x="210.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="O8"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="O8">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -943,6 +1005,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="B9"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="B9">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -954,6 +1017,7 @@
                                                 <rect key="frame" x="52.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="I9"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="I9">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -965,6 +1029,7 @@
                                                 <rect key="frame" x="105" y="0.0" width="52" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="N9"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="N9">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -976,6 +1041,7 @@
                                                 <rect key="frame" x="158" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="G9"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="G9">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -987,6 +1053,7 @@
                                                 <rect key="frame" x="210.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="O9"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="O9">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -1006,6 +1073,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="B10"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="B10">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -1017,6 +1085,7 @@
                                                 <rect key="frame" x="52.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="I10"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="I10">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -1028,6 +1097,7 @@
                                                 <rect key="frame" x="105" y="0.0" width="52" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="N10"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="N10">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -1039,6 +1109,7 @@
                                                 <rect key="frame" x="158" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="G10"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="G10">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -1050,6 +1121,7 @@
                                                 <rect key="frame" x="210.5" y="0.0" width="51.5" height="40"/>
                                                 <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                                                 <accessibility key="accessibilityConfiguration" identifier="O10"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <state key="normal" title="O10">
                                                     <color key="titleColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
@@ -1179,7 +1251,6 @@
                         <outlet property="o7" destination="puU-nR-803" id="Cs0-NY-TLw"/>
                         <outlet property="o8" destination="iOB-6U-HMu" id="F0L-JU-jWu"/>
                         <outlet property="o9" destination="oQH-dv-8mm" id="fJR-f7-4hR"/>
-                        <segue destination="vPJ-Dm-cg7" kind="presentation" identifier="Bingo" id="XDT-Kg-DuC"/>
                         <segue destination="BYZ-38-t0r" kind="presentation" identifier="ViewController" id="yde-92-eLh"/>
                     </connections>
                 </viewController>
@@ -1187,63 +1258,11 @@
             </objects>
             <point key="canvasLocation" x="873.91304347826099" y="117.85714285714285"/>
         </scene>
-        <!--View Controller BINGO-->
-        <scene sceneID="M02-Rq-su6">
-            <objects>
-                <viewController id="vPJ-Dm-cg7" userLabel="View Controller BINGO" customClass="Bingo" customModule="Bingo_0_2" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="0oA-1J-GFu">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Bingo banner" translatesAutoresizingMaskIntoConstraints="NO" id="UDN-gT-nLu">
-                                <rect key="frame" x="47" y="0.0" width="320" height="100"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Bingo!!!!" translatesAutoresizingMaskIntoConstraints="NO" id="vVg-kd-uAN">
-                                <rect key="frame" x="43" y="228" width="328" height="386"/>
-                            </imageView>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6hR-Q4-DSM">
-                                <rect key="frame" x="47" y="20" width="30" height="30"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="30" id="Xmm-2Y-rWv"/>
-                                    <constraint firstAttribute="width" constant="30" id="cq1-p7-4U4"/>
-                                </constraints>
-                                <color key="tintColor" red="0.65490196079999996" green="0.81960784310000001" blue="0.16078431369999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" image="arrowshape.turn.up.left" catalog="system"/>
-                                <connections>
-                                    <action selector="backButton2Pressed:" destination="vPJ-Dm-cg7" eventType="touchUpInside" id="dNT-wd-qAP"/>
-                                </connections>
-                            </button>
-                        </subviews>
-                        <color key="backgroundColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
-                        <constraints>
-                            <constraint firstItem="v86-d9-6sP" firstAttribute="trailing" secondItem="vVg-kd-uAN" secondAttribute="trailing" constant="43" id="Lgu-gg-D0A"/>
-                            <constraint firstItem="v86-d9-6sP" firstAttribute="bottom" secondItem="vVg-kd-uAN" secondAttribute="bottom" constant="194" id="Zi5-Zq-5cy"/>
-                            <constraint firstItem="6hR-Q4-DSM" firstAttribute="top" secondItem="v86-d9-6sP" secondAttribute="top" constant="20" id="a0v-iP-BJs"/>
-                            <constraint firstItem="vVg-kd-uAN" firstAttribute="leading" secondItem="v86-d9-6sP" secondAttribute="leading" constant="43" id="etJ-tP-fBt"/>
-                            <constraint firstItem="vVg-kd-uAN" firstAttribute="top" secondItem="v86-d9-6sP" secondAttribute="top" constant="228" id="f65-bn-yqa"/>
-                            <constraint firstItem="6hR-Q4-DSM" firstAttribute="leading" secondItem="v86-d9-6sP" secondAttribute="leading" constant="47" id="tia-3S-W9B"/>
-                        </constraints>
-                        <viewLayoutGuide key="safeArea" id="v86-d9-6sP"/>
-                    </view>
-                    <connections>
-                        <segue destination="q5C-WA-5yN" kind="presentation" identifier="BingoBonger" id="dgF-HC-wL9"/>
-                    </connections>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="I1m-eX-eRj" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="1652" y="118"/>
-        </scene>
     </scenes>
     <resources>
         <image name="Bingo banner" width="320" height="100"/>
         <image name="Bingo med pernille" width="276" height="597"/>
-        <image name="Bingo!!!!" width="828" height="896"/>
         <image name="Button-2" width="300" height="100"/>
         <image name="arrowshape.turn.up.left" catalog="system" width="64" height="52"/>
     </resources>
-    <inferredMetricsTieBreakers>
-        <segue reference="XDT-Kg-DuC"/>
-        <segue reference="dgF-HC-wL9"/>
-    </inferredMetricsTieBreakers>
 </document>
