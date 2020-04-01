@@ -242,11 +242,11 @@ class BingoBonger: UIViewController {
     var rows = [String]()
     
     func popUpButtonAction() {
-
         var popUpWindow: PopUpWindow!
            popUpWindow = PopUpWindow(title: "BINGO!", text: "", buttontext: "Back to Pernille´s bingo")
            self.present(popUpWindow, animated: true, completion: nil)
        }
+    
     
     func checkBingo(buttonId: String){
         if !checkedButtons.contains(buttonId){
